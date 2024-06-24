@@ -26,6 +26,8 @@
 !/tmp/storage/.keep
 
 /public/assets
+.env
+.env.test
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
